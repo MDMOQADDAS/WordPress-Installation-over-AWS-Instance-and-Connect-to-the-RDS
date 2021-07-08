@@ -1,3 +1,5 @@
 # WordPress-Installation-over-AWS-Instance-and-Connect-to-the-RDS
+https://www.linkedin.com/posts/mdmoqaddas_doc-for-install-wordpress-in-instances-activity-6755935229304799232-pLzF
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6755935228675653632" height="860" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<br>
+wathc it and see the doc
